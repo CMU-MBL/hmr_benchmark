@@ -13,3 +13,6 @@
 [submodule "third_party/TokenHMR"]
 	path = third_party/TokenHMR
 	url = https://github.com/saidwivedi/TokenHMR.git
+[submodule "third_party/PromptHMR"]
+	path = third_party/PromptHMR
+	url = https://github.com/yufu-wang/PromptHMR.git
