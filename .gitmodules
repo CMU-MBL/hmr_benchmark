@@ -4,9 +4,6 @@
 [submodule "third_party/4D_Human"]
 	path = third_party/4D_Human
 	url = https://github.com/shubham-goel/4D-Humans.git
-[submodule "third_party/PromptHMR"]
-	path = third_party/PromptHMR
-	url = https://github.com/yufu-wang/PromptHMR.git
 [submodule "third_party/NLF"]
 	path = third_party/NLF
 	url = https://github.com/SijiaLii/nlf.git
