@@ -1,9 +1,3 @@
-[submodule "third-party/WHAM"]
-	path = third-party/WHAM
-	url = https://github.com/SijiaLii/WHAM.git
-[submodule "third-party/TokenHMR"]
-	path = third-party/TokenHMR
-	url = https://github.com/saidwivedi/TokenHMR.git
 [submodule "third_party/CameraHMR"]
 	path = third_party/CameraHMR
 	url = https://github.com/SijiaLii/CameraHMR.git
