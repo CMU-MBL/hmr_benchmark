@@ -16,3 +16,9 @@
 [submodule "third_party/NLF"]
 	path = third_party/NLF
 	url = https://github.com/SijiaLii/nlf.git
+[submodule "third_party/WHAM"]
+	path = third_party/WHAM
+	url = https://github.com/SijiaLii/WHAM.git
+[submodule "third_party/TokenHMR"]
+	path = third_party/TokenHMR
+	url = https://github.com/saidwivedi/TokenHMR.git
