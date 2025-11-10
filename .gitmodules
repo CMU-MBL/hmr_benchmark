@@ -1,0 +1,18 @@
+[submodule "third-party/WHAM"]
+	path = third-party/WHAM
+	url = https://github.com/SijiaLii/WHAM.git
+[submodule "third-party/TokenHMR"]
+	path = third-party/TokenHMR
+	url = https://github.com/saidwivedi/TokenHMR.git
+[submodule "third_party/CameraHMR"]
+	path = third_party/CameraHMR
+	url = https://github.com/SijiaLii/CameraHMR.git
+[submodule "third_party/4D_Human"]
+	path = third_party/4D_Human
+	url = https://github.com/shubham-goel/4D-Humans.git
+[submodule "third_party/PromptHMR"]
+	path = third_party/PromptHMR
+	url = https://github.com/yufu-wang/PromptHMR.git
+[submodule "third_party/NLF"]
+	path = third_party/NLF
+	url = https://github.com/SijiaLii/nlf.git
